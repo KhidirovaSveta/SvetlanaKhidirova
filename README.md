@@ -1,5 +1,4 @@
 
-[![MasterHead]
 
 <h1 align="center">Hi 👋, I'm Khidirova Svetlana </h1>
 <h3 align="center"> I'm Jr. Front End Developer</h3>
