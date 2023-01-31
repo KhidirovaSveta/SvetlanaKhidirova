@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/2417352/screenshots/17754792/media/e96998e0bd3085cd76c1cb59819e9c00.png?compress=1&resize=1000x750&vertical=top" width="140"/>
+  <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="240"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Khidirova Svetlana </h1>
