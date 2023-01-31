@@ -1,4 +1,6 @@
-
+<div id="header" align="center">
+  <img src="![image](https://user-images.githubusercontent.com/116655832/215684410-8283b1a4-e8b9-4b8e-8a24-441bf2f36c93.png)" width="100"/>
+</div>
 
 <h1 align="center">Hi 👋, I'm Khidirova Svetlana </h1>
 <h3 align="center"> I'm Jr. Front End Developer</h3>
